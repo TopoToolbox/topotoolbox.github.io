@@ -10,7 +10,7 @@ TopoToolbox is an open-source software suite for the analysis of
 digital elevation models.
 
 Version 3 of TopoToolbox has been redesigned around a C library,
-`libtopotoolbox <https//topotoolbox.github.io/libtopotoolbox>`_ that
+`libtopotoolbox <https://topotoolbox.github.io/libtopotoolbox>`_ that
 implements fundamental algorithms for topographic analysis.
 
 Bindings for libtopotoolbox in higher-level languages provide a
