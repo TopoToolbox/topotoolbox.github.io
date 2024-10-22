@@ -20,7 +20,7 @@ analysis ecosystems of those languages.
 
 Bindings are currently under development for
 
-* `MATLAB <https://github.com/TopoToolbox/topotoolbox>`_
+* `MATLAB <https://github.com/TopoToolbox/topotoolbox3>`_
 * `Python <https://topotoolbox.github.io/pytopotoolbox>`_
 * `R <https://github.com/TopoToolbox/topotoolboxr>`_
 
