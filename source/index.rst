@@ -14,7 +14,7 @@ Version 3 of TopoToolbox has been redesigned around a C library,
 implements fundamental algorithms for topographic analysis.
 
 Bindings for libtopotoolbox in higher-level languages provide a
-user-friendly interface to the library and enable data important and
+user-friendly interface to the library and enable data import and
 export, visualization and interaction with the geospatial data
 analysis ecosystems of those languages.
 
