@@ -11,6 +11,14 @@ your desired language.
 * `MATLAB <https://github.com/TopoToolbox/topotoolbox3>`_
 * `Python <https://topotoolbox.github.io/pytopotoolbox>`_
 
+To see examples of TopoToolbox in action, check out our `gallery
+<https://topotoolbox.github.io/gallery>`_. If you have a cool
+application of TopoToolbox we'd love to see it! The gallery has
+instructions for submitting your creation in either `Python
+<https://topotoolbox.github.io/gallery/notebooks/python/contributing/contributing.html>`_
+or `MATLAB
+<https://topotoolbox.github.io/gallery/notebooks/matlab/contributing/contributing.html>`_.
+
 If you would like to contribute to TopoToolbox, you can find some
 instructions in our :doc:`contributing`.
 
